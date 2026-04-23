@@ -39,6 +39,21 @@ For most beginners, the easiest path is:
 - restart Windows if needed
 - then continue with Deno AI Studio
 
+## Easiest WSL 2 install method
+
+1. Open **PowerShell as Administrator**
+2. Run:
+
+```powershell
+wsl --install
+```
+
+3. Wait until Windows finishes the setup
+4. Restart Windows if asked
+5. Open Docker Desktop again after the restart
+
+If the command says WSL is already installed, you can continue.
+
 ## Step-by-step setup
 
 1. Click [Download Docker Desktop for Windows](https://docs.docker.com/desktop/setup/install/windows-install/).

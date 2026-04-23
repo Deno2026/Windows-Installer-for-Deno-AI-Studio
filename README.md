@@ -47,6 +47,21 @@ The good news is:
 - if WSL is missing, Docker Desktop or Windows usually tells you what to do next
 - if that happens, just use the WSL link above, finish that step, and continue
 
+### Easiest WSL 2 install method
+
+1. Open **PowerShell as Administrator**
+2. Run this command:
+
+```powershell
+wsl --install
+```
+
+3. Wait for Windows to finish the setup
+4. Restart Windows if asked
+5. After restarting, open Docker Desktop again
+
+If `wsl --install` says WSL is already installed, you can continue to the next step.
+
 ## Step-by-step for first-time users
 
 1. Click [Download Docker Desktop for Windows](https://docs.docker.com/desktop/setup/install/windows-install/).
