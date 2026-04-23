@@ -1,10 +1,10 @@
 {
-  "version": "0.1.19",
-  "channel": "stable",
-  "publishedAt": "2026-04-23T18:00:43.097Z",
-  "installerFileName": "Deno AI Studio Setup 0.1.19.exe",
-  "installerUrl": "https://raw.githubusercontent.com/Deno2026/Windows-Installer-for-Deno-AI-Studio/main/deno-ai-studio/updates/windows-x64/Deno%20AI%20Studio%20Setup%200.1.19.exe",
-  "sha256": "451f3eb1c499b806ba34d73d556f762868c9c9cfab35c5777f799837ba45621e",
-  "size": 94224312,
-  "notes": "Fixes Motif Video 2B image-to-video compatibility when the runtime exposes the vision tower directly instead of through vision_model."
+    "version":  "0.1.20",
+    "channel":  "stable",
+    "publishedAt":  "2026-04-23T18:31:41.8413256Z",
+    "installerFileName":  "Deno AI Studio Setup 0.1.20.exe",
+    "installerUrl":  "https://raw.githubusercontent.com/Deno2026/Windows-Installer-for-Deno-AI-Studio/main/deno-ai-studio/updates/windows-x64/Deno%20AI%20Studio%20Setup%200.1.20.exe",
+    "sha256":  "aecc6a209fcb7db351eb56896ebb12efa5e219e28941cff5de2531fc2b87c297",
+    "size":  94224631,
+    "notes":  "Compacts the catalog into a cleaner picker and starts the update installer automatically after you confirm the update."
 }
