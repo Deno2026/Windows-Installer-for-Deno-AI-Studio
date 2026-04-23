@@ -1,8 +1,8 @@
-# [Deno AI Studio](https://raw.githubusercontent.com/Deno2026/Workflow/main/deno-ai-studio/updates/windows-x64/Deno%20AI%20Studio%20Setup%200.1.3.exe)
+# [Deno AI Studio](https://raw.githubusercontent.com/Deno2026/Deno-AI-Studio/main/deno-ai-studio/updates/windows-x64/Deno%20AI%20Studio%20Setup%200.1.3.exe)
 
 [![STEP 1 Install Docker Desktop](https://img.shields.io/badge/STEP%201-Install%20Docker%20Desktop-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/desktop/setup/install/windows-install/)
 [![STEP 2 Install WSL 2](https://img.shields.io/badge/STEP%202-Install%20WSL%202-4F46E5?style=for-the-badge&logo=windows-terminal&logoColor=white)](https://learn.microsoft.com/en-us/windows/wsl/install)
-[![STEP 3 Download Deno AI Studio](https://img.shields.io/badge/STEP%203-Download%20Deno%20AI%20Studio-16A34A?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Deno2026/Workflow/main/deno-ai-studio/updates/windows-x64/Deno%20AI%20Studio%20Setup%200.1.3.exe)
+[![STEP 3 Download Deno AI Studio](https://img.shields.io/badge/STEP%203-Download%20Deno%20AI%20Studio-16A34A?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Deno2026/Deno-AI-Studio/main/deno-ai-studio/updates/windows-x64/Deno%20AI%20Studio%20Setup%200.1.3.exe)
 
 ## Screenshots
 
@@ -16,7 +16,7 @@
 | --- | --- | --- |
 | 1 | [Install Docker Desktop](https://docs.docker.com/desktop/setup/install/windows-install/) | Required helper app for isolated model execution |
 | 2 | [Install WSL 2](https://learn.microsoft.com/en-us/windows/wsl/install) | Required Windows backend for Docker Desktop |
-| 3 | [Download Deno AI Studio](https://raw.githubusercontent.com/Deno2026/Workflow/main/deno-ai-studio/updates/windows-x64/Deno%20AI%20Studio%20Setup%200.1.3.exe) | Windows installer for the launcher |
+| 3 | [Download Deno AI Studio](https://raw.githubusercontent.com/Deno2026/Deno-AI-Studio/main/deno-ai-studio/updates/windows-x64/Deno%20AI%20Studio%20Setup%200.1.3.exe) | Windows installer for the launcher |
 
 ## Beginner install guide
 
@@ -127,7 +127,7 @@ wsl --install
 
 ### Part 4. Install Deno AI Studio
 
-1. Click [Download Deno AI Studio](https://raw.githubusercontent.com/Deno2026/Workflow/main/deno-ai-studio/updates/windows-x64/Deno%20AI%20Studio%20Setup%200.1.3.exe).
+1. Click [Download Deno AI Studio](https://raw.githubusercontent.com/Deno2026/Deno-AI-Studio/main/deno-ai-studio/updates/windows-x64/Deno%20AI%20Studio%20Setup%200.1.3.exe).
 2. Run the installer.
 3. Finish setup.
 4. Open **Deno AI Studio** from the desktop or Start menu.
