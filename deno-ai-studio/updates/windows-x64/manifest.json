@@ -1,10 +1,10 @@
-﻿{
-    "version":  "0.1.14",
+{
+    "version":  "0.1.15",
     "channel":  "stable",
-    "publishedAt":  "2026-04-23T15:21:29.8079652Z",
-    "installerFileName":  "Deno AI Studio Setup 0.1.14.exe",
-    "installerUrl":  "https://raw.githubusercontent.com/Deno2026/Windows-Installer-for-Deno-AI-Studio/main/deno-ai-studio/updates/windows-x64/Deno%20AI%20Studio%20Setup%200.1.14.exe",
-    "sha256":  "f582d2033266de003a2680fdd71d22481ee08307e779f7e8b65a138c6dc237e3",
-    "size":  94220695,
-    "notes":  "Removes the nested model-list scrollbar for smoother scrolling and syncs Motif parameter tooltips with the selected app language."
+    "publishedAt":  "2026-04-23T15:31:42.2070779Z",
+    "installerFileName":  "Deno AI Studio Setup 0.1.15.exe",
+    "installerUrl":  "https://raw.githubusercontent.com/Deno2026/Windows-Installer-for-Deno-AI-Studio/main/deno-ai-studio/updates/windows-x64/Deno%20AI%20Studio%20Setup%200.1.15.exe",
+    "sha256":  "ef742b42cdffec9dc2345323f4e3435812e0b1b97257c8c791f0281d74fe23dc",
+    "size":  94220685,
+    "notes":  "Fixes updater manifest parsing by handling UTF-8 BOM safely and republishes a clean manifest for in-app updates."
 }
