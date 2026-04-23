@@ -1,10 +1,10 @@
-﻿{
-    "version":  "0.1.4",
+{
+    "version":  "0.1.5",
     "channel":  "stable",
-    "publishedAt":  "2026-04-23T11:35:37.8999981Z",
-    "installerFileName":  "Deno AI Studio Setup 0.1.4.exe",
-    "installerUrl":  "https://raw.githubusercontent.com/Deno2026/Deno-AI-Studio/main/deno-ai-studio/updates/windows-x64/Deno%20AI%20Studio%20Setup%200.1.4.exe",
-    "sha256":  "5277f8d2842a457b7e05f645f795c6c7eb4b0836eb0334353e1b7169d4c2d0eb",
-    "size":  94274959,
-    "notes":  "Switched the public runtime to SDPA-only so first install no longer tries FlashAttention or SageAttention compilation."
+    "publishedAt":  "2026-04-23T12:10:00.0000000Z",
+    "installerFileName":  "Deno AI Studio Setup 0.1.5.exe",
+    "installerUrl":  "https://raw.githubusercontent.com/Deno2026/Windows-Installer-for-Deno-AI-Studio/main/deno-ai-studio/updates/windows-x64/Deno%20AI%20Studio%20Setup%200.1.5.exe",
+    "sha256":  "d6ce14f9c8a4be6d18e43acb0d254001d3e088e05f02094e70d9209b87e02e2f",
+    "size":  94275032,
+    "notes":  "Updated the public repo and in-app updater to the new Windows-Installer-for-Deno-AI-Studio path."
 }
