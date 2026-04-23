@@ -146,7 +146,13 @@ wsl --install
 1. Open **Docker Desktop** from the Start menu.
 2. If Docker asks you to accept terms, click **Accept**.
 3. Wait until Docker finishes loading normally.
-4. Do not continue until Docker is fully open and no longer shows a startup/loading state.
+4. Open **Settings** in Docker Desktop.
+5. Go to **General** and make sure **Use the WSL 2 based engine** is enabled.
+6. Go to **Resources > WSL Integration**.
+7. Make sure your default Linux distribution is enabled. For most first-time users, this means **Ubuntu** should be turned on.
+8. Click **Apply & Restart** if Docker shows that button.
+9. If **WSL Integration** does not appear, Docker may be in Windows container mode. Switch Docker back to **Linux containers** and check again.
+10. Do not continue until Docker is fully open, finished loading, and your Ubuntu/WSL integration is enabled.
 
 ### Part 4. Install Deno AI Studio
 
