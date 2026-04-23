@@ -1,10 +1,10 @@
-{
-    "version":  "0.1.13",
+﻿{
+    "version":  "0.1.14",
     "channel":  "stable",
-    "publishedAt":  "2026-04-23T15:01:54.5504324Z",
-    "installerFileName":  "Deno AI Studio Setup 0.1.13.exe",
-    "installerUrl":  "https://raw.githubusercontent.com/Deno2026/Windows-Installer-for-Deno-AI-Studio/main/deno-ai-studio/updates/windows-x64/Deno%20AI%20Studio%20Setup%200.1.13.exe",
-    "sha256":  "517eaa5a7f0f518816b23a93c84dd5e2bb92271bb879656c7c09c5df8c07e391",
-    "size":  94218604,
-    "notes":  "Adds Motif Video 2B with text-to-video, image-to-video, low VRAM offload, and an optional FP8 transformer toggle."
+    "publishedAt":  "2026-04-23T15:21:29.8079652Z",
+    "installerFileName":  "Deno AI Studio Setup 0.1.14.exe",
+    "installerUrl":  "https://raw.githubusercontent.com/Deno2026/Windows-Installer-for-Deno-AI-Studio/main/deno-ai-studio/updates/windows-x64/Deno%20AI%20Studio%20Setup%200.1.14.exe",
+    "sha256":  "f582d2033266de003a2680fdd71d22481ee08307e779f7e8b65a138c6dc237e3",
+    "size":  94220695,
+    "notes":  "Removes the nested model-list scrollbar for smoother scrolling and syncs Motif parameter tooltips with the selected app language."
 }
