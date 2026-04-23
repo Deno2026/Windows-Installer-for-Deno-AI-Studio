@@ -1,10 +1,10 @@
-﻿{
-    "version":  "0.1.11",
+{
+    "version":  "0.1.12",
     "channel":  "stable",
-    "publishedAt":  "2026-04-23T14:01:09.7552816Z",
-    "installerFileName":  "Deno AI Studio Setup 0.1.11.exe",
-    "installerUrl":  "https://raw.githubusercontent.com/Deno2026/Windows-Installer-for-Deno-AI-Studio/main/deno-ai-studio/updates/windows-x64/Deno%20AI%20Studio%20Setup%200.1.11.exe",
-    "sha256":  "47abcdb1ccd556b69b63c89ca21c459be5062744bfb5ad60c3bcc2ec779fe55b",
-    "size":  94210579,
-    "notes":  "Fixes the output preview trigger so completed runs open the in-app preview modal reliably."
+    "publishedAt":  "2026-04-23T14:10:10.2059588Z",
+    "installerFileName":  "Deno AI Studio Setup 0.1.12.exe",
+    "installerUrl":  "https://raw.githubusercontent.com/Deno2026/Windows-Installer-for-Deno-AI-Studio/main/deno-ai-studio/updates/windows-x64/Deno%20AI%20Studio%20Setup%200.1.12.exe",
+    "sha256":  "1eab8b4b3aa55d87aa7b302ce89044d7805a3c2706367edf954f2135e9f3a2d4",
+    "size":  94210406,
+    "notes":  "Removes the redundant settings-page update card so updates only run from the startup prompt."
 }

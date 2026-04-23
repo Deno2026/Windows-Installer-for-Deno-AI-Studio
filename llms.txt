@@ -1,4 +1,4 @@
-﻿Deno AI Studio
+Deno AI Studio
 
 Summary:
 - Windows desktop launcher for open-source AI workflows
@@ -21,6 +21,7 @@ Primary install page:
 - https://github.com/Deno2026/Windows-Installer-for-Deno-AI-Studio
 
 Direct installer:
-- https://raw.githubusercontent.com/Deno2026/Windows-Installer-for-Deno-AI-Studio/main/deno-ai-studio/updates/windows-x64/Deno%20AI%20Studio%20Setup%200.1.11.exe
+- https://raw.githubusercontent.com/Deno2026/Windows-Installer-for-Deno-AI-Studio/main/deno-ai-studio/updates/windows-x64/Deno%20AI%20Studio%20Setup%200.1.12.exe
+
 
 
