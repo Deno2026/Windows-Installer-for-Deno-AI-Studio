@@ -1,10 +1,10 @@
 {
-    "version":  "0.1.17",
-    "channel":  "stable",
-    "publishedAt":  "2026-04-23T16:08:07.0939972Z",
-    "installerFileName":  "Deno AI Studio Setup 0.1.17.exe",
-    "installerUrl":  "https://raw.githubusercontent.com/Deno2026/Windows-Installer-for-Deno-AI-Studio/main/deno-ai-studio/updates/windows-x64/Deno%20AI%20Studio%20Setup%200.1.17.exe",
-    "sha256":  "f0a31593ad97958f57e3475a89556f8100d05b08298792f9c57b4f8fa4e726bf",
-    "size":  94220935,
-    "notes":  "Fixes Motif Video 2B install detection so downloaded model files immediately switch the launcher to Installed and unlock Run."
+  "version": "0.1.18",
+  "channel": "stable",
+  "publishedAt": "2026-04-23T16:48:13.934Z",
+  "installerFileName": "Deno AI Studio Setup 0.1.18.exe",
+  "installerUrl": "https://raw.githubusercontent.com/Deno2026/Windows-Installer-for-Deno-AI-Studio/main/deno-ai-studio/updates/windows-x64/Deno%20AI%20Studio%20Setup%200.1.18.exe",
+  "sha256": "d5319939be4b5f94181a65c8e703fafdc8686caf50ff7701e57af172dadb0d93",
+  "size": 94224029,
+  "notes": "Adds a fixed top resource strip while scrolling and keeps the latest active model resident in VRAM for up to 20 minutes of idle time before auto release."
 }
