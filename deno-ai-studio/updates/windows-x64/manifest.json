@@ -1,10 +1,10 @@
 {
-    "version":  "0.1.23",
+    "version":  "0.1.24",
     "channel":  "stable",
     "publishedAt":  "2026-04-24T00:00:00.0000000Z",
-    "installerFileName":  "Deno AI Studio Setup 0.1.23.exe",
-    "installerUrl":  "https://raw.githubusercontent.com/Deno2026/Windows-Installer-for-Deno-AI-Studio/main/deno-ai-studio/updates/windows-x64/Deno%20AI%20Studio%20Setup%200.1.23.exe",
-    "sha256":  "7b70753e3f5528136ca567daab36585ae77406e7508b3f9ba66a1e81a7cb6e9f",
-    "size":  94235943,
-    "notes":  "Adds VoxCPM2 with official generation modes in the launcher and verified sample outputs."
+    "installerFileName":  "Deno AI Studio Setup 0.1.24.exe",
+    "installerUrl":  "https://raw.githubusercontent.com/Deno2026/Windows-Installer-for-Deno-AI-Studio/main/deno-ai-studio/updates/windows-x64/Deno%20AI%20Studio%20Setup%200.1.24.exe",
+    "sha256":  "d361187dcda8dd1e54e947e457b3d395c43e24ea38d3093b1c4f0d847fdb4926",
+    "size":  94235967,
+    "notes":  "Shows estimated install size for catalog items that have no workspace yet instead of a misleading 0GB usage badge."
 }
