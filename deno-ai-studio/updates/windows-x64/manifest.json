@@ -1,10 +1,10 @@
-{
-    "version":  "0.1.24",
+﻿{
+    "version":  "0.1.25",
     "channel":  "stable",
-    "publishedAt":  "2026-04-24T00:00:00.0000000Z",
-    "installerFileName":  "Deno AI Studio Setup 0.1.24.exe",
-    "installerUrl":  "https://raw.githubusercontent.com/Deno2026/Windows-Installer-for-Deno-AI-Studio/main/deno-ai-studio/updates/windows-x64/Deno%20AI%20Studio%20Setup%200.1.24.exe",
-    "sha256":  "d361187dcda8dd1e54e947e457b3d395c43e24ea38d3093b1c4f0d847fdb4926",
-    "size":  94235967,
-    "notes":  "Shows estimated install size for catalog items that have no workspace yet instead of a misleading 0GB usage badge."
+    "publishedAt":  "2026-04-24T11:06:46.1976739Z",
+    "installerFileName":  "Deno AI Studio Setup 0.1.25.exe",
+    "installerUrl":  "https://raw.githubusercontent.com/Deno2026/Windows-Installer-for-Deno-AI-Studio/main/deno-ai-studio/updates/windows-x64/Deno%20AI%20Studio%20Setup%200.1.25.exe",
+    "sha256":  "b4ef770071f5bbfd7a98c571d323c6d9b59cd16a7c5145b972603d6c7336da2e",
+    "size":  94240872,
+    "notes":  "Adds beginner setup guidance for WSL 2, Ubuntu, and Docker Desktop, with improved prerequisite checks inside the app."
 }

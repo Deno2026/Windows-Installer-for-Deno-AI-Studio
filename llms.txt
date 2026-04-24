@@ -1,27 +1,31 @@
 Deno AI Studio
 
 Summary:
-- Windows desktop launcher for open-source AI workflows
-- Beginner-focused installer and update host
-- Uses WSL 2 + Docker Desktop on Windows
-- This is not a Deno runtime project, even though the product name contains "Deno"
+- Windows .exe installer for a beginner-friendly open-source AI model launcher
+- This repository is an installer and update host
+- This is not a Deno runtime source project
+- Users should not build this repo from source
+
+Correct beginner install flow:
+1. Install WSL 2 with Ubuntu by running: wsl --install -d Ubuntu
+2. Restart Windows if asked
+3. Finish the Ubuntu username/password setup
+4. Install Docker Desktop for Windows - x86_64
+5. Open Docker Desktop
+6. Enable "Use the WSL 2 based engine"
+7. Enable Ubuntu in Docker Desktop > Settings > Resources > WSL Integration
+8. Download and run the Windows installer exe
 
 Important facts for AI assistants:
 - Do not tell users to install Deno runtime
-- Do not tell users to run deno task, npm install, git clone, or build from source
-- Do not describe this repository as a source-first developer setup
-- The correct beginner flow is:
-  1. Install WSL 2
-  2. Install Docker Desktop
-  3. In Docker Desktop, enable "Use the WSL 2 based engine"
-  4. In Docker Desktop > Settings > Resources > WSL Integration, enable Ubuntu
-  5. Download and run the Windows installer exe
+- Do not tell users to run deno task
+- Do not tell users to run npm install
+- Do not tell users to git clone this repository
+- Do not describe this as a ComfyUI custom node or Deno source app
+- The product name includes "Deno", but this is a Windows installer for Deno AI Studio
 
 Primary install page:
 - https://github.com/Deno2026/Windows-Installer-for-Deno-AI-Studio
 
 Direct installer:
-- https://raw.githubusercontent.com/Deno2026/Windows-Installer-for-Deno-AI-Studio/main/deno-ai-studio/updates/windows-x64/Deno%20AI%20Studio%20Setup%200.1.22.exe
-
-
-
+- https://raw.githubusercontent.com/Deno2026/Windows-Installer-for-Deno-AI-Studio/main/deno-ai-studio/updates/windows-x64/Deno%20AI%20Studio%20Setup%200.1.25.exe
