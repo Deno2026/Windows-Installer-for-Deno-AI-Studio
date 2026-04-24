@@ -1,10 +1,10 @@
 {
-    "version":  "0.1.25",
+    "version":  "0.1.26",
     "channel":  "stable",
-    "publishedAt":  "2026-04-24T11:06:46.1976739Z",
-    "installerFileName":  "Deno AI Studio Setup 0.1.25.exe",
-    "installerUrl":  "https://raw.githubusercontent.com/Deno2026/Windows-Installer-for-Deno-AI-Studio/main/deno-ai-studio/updates/windows-x64/Deno%20AI%20Studio%20Setup%200.1.25.exe",
-    "sha256":  "b4ef770071f5bbfd7a98c571d323c6d9b59cd16a7c5145b972603d6c7336da2e",
-    "size":  94240872,
-    "notes":  "Adds beginner setup guidance for WSL 2, Ubuntu, and Docker Desktop, with improved prerequisite checks inside the app."
+    "publishedAt":  "2026-04-24T13:18:34.0630642Z",
+    "installerFileName":  "Deno AI Studio Setup 0.1.26.exe",
+    "installerUrl":  "https://raw.githubusercontent.com/Deno2026/Windows-Installer-for-Deno-AI-Studio/main/deno-ai-studio/updates/windows-x64/Deno%20AI%20Studio%20Setup%200.1.26.exe",
+    "sha256":  "a0c332568fe7cf05c2cbf17c8b4d9e9f4542d089f84c416b6d82839dba4a9922",
+    "size":  94242911,
+    "notes":  "Keeps the active TTS model resident in VRAM for 20 minutes after generation, then releases it on idle timeout or model switch."
 }
