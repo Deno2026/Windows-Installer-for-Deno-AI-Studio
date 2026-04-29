@@ -1,10 +1,10 @@
 {
-    "version":  "0.1.32",
+    "version":  "0.1.33",
     "channel":  "stable",
-    "publishedAt":  "2026-04-29T18:24:53.7122713Z",
-    "installerFileName":  "Deno AI Studio Setup 0.1.32.exe",
-    "installerUrl":  "https://raw.githubusercontent.com/Deno2026/Windows-Installer-for-Deno-AI-Studio/main/deno-ai-studio/updates/windows-x64/Deno%20AI%20Studio%20Setup%200.1.32.exe",
-    "sha256":  "05ce074147e59c7385b43a5da06740a16f68080a5f755eb18ab4ea97c1e26bbc",
-    "size":  94244659,
-    "notes":  "Uninstall now reminds users to open Docker Desktop first for cleaner Docker image cleanup. The top status bar now shows a red Docker warning when Docker Desktop is missing or not running."
+    "publishedAt":  "2026-04-29T18:50:57.0587586Z",
+    "installerFileName":  "Deno AI Studio Setup 0.1.33.exe",
+    "installerUrl":  "https://raw.githubusercontent.com/Deno2026/Windows-Installer-for-Deno-AI-Studio/main/deno-ai-studio/updates/windows-x64/Deno%20AI%20Studio%20Setup%200.1.33.exe",
+    "sha256":  "b32869e30550373295d08f01efb148d3a981bb38aa1b9f5fca465c57542ac89a",
+    "size":  94249387,
+    "notes":  "Adds a Storage Cleanup page for recovering Docker virtual disk free space. The tool explains that Docker Desktop and WSL will close temporarily, then opens an elevated cleanup script to compact Docker VHDX free space."
 }
