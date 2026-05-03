@@ -1,10 +1,10 @@
 {
-    "version":  "0.1.36",
+    "version":  "0.1.37",
     "channel":  "stable",
-    "publishedAt":  "2026-05-03T10:00:56.1750627Z",
-    "installerFileName":  "Deno AI Studio Setup 0.1.36.exe",
-    "installerUrl":  "https://raw.githubusercontent.com/Deno2026/Windows-Installer-for-Deno-AI-Studio/main/deno-ai-studio/updates/windows-x64/Deno%20AI%20Studio%20Setup%200.1.36.exe",
-    "sha256":  "628b45410a832dd14525d0c18f8c4342aeeb9aabe18046c1a30274689cd55d2b",
-    "size":  94268640,
-    "notes":  "Improves installed-model detection for custom install drives. Deno AI Studio now checks the workspace next to the chosen install folder, then keeps compatibility with older drive-root and legacy workspace locations."
+    "publishedAt":  "2026-05-03T10:09:13.7401207Z",
+    "installerFileName":  "Deno AI Studio Setup 0.1.37.exe",
+    "installerUrl":  "https://raw.githubusercontent.com/Deno2026/Windows-Installer-for-Deno-AI-Studio/main/deno-ai-studio/updates/windows-x64/Deno%20AI%20Studio%20Setup%200.1.37.exe",
+    "sha256":  "1f631925b3998ee4834ceab75fe96a054c2be35e21bc31107dba27b9e98f2676",
+    "size":  94268870,
+    "notes":  "Hardens installed-model detection. The launcher now records each model's real install path and validates saved paths plus all known workspace locations at startup, preventing downloaded models from appearing uninstalled after updates or custom install-path changes."
 }
