@@ -1,10 +1,10 @@
 {
-    "version":  "0.1.34",
+    "version":  "0.1.35",
     "channel":  "stable",
-    "publishedAt":  "2026-04-29T20:20:32.9321927Z",
-    "installerFileName":  "Deno AI Studio Setup 0.1.34.exe",
-    "installerUrl":  "https://raw.githubusercontent.com/Deno2026/Windows-Installer-for-Deno-AI-Studio/main/deno-ai-studio/updates/windows-x64/Deno%20AI%20Studio%20Setup%200.1.34.exe",
-    "sha256":  "c2404bcff3e063322b3d8884093ddc5352a49376fb5741666ae5d8ec51543038",
-    "size":  94249389,
-    "notes":  "Fixes Docker Storage Cleanup result reporting for very large Docker virtual disks. The compact operation now uses 64-bit size math, so hundreds-of-GB VHDX files report the freed space correctly instead of showing an overflow error."
+    "publishedAt":  "2026-05-03T09:53:10.7861662Z",
+    "installerFileName":  "Deno AI Studio Setup 0.1.35.exe",
+    "installerUrl":  "https://raw.githubusercontent.com/Deno2026/Windows-Installer-for-Deno-AI-Studio/main/deno-ai-studio/updates/windows-x64/Deno%20AI%20Studio%20Setup%200.1.35.exe",
+    "sha256":  "97fedda03407f477d9164208d1998571cc42fcfc955ddd00f6c8c5462b3115fe",
+    "size":  94268453,
+    "notes":  "Adds practical benchmark reference cards for music/audio models. HeartMuLa and Stable Audio now show realistic test length, runtime, VRAM/RAM/GPU usage, and key settings in the model detail screen."
 }
