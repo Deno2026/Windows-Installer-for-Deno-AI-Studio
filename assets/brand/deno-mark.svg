@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="DENO">
+  <rect width="64" height="64" rx="10" fill="#0F0E12"/>
+  <path fill="#2E1E38" fill-rule="evenodd" d="M16 9h20.5C50 9 57 17.6 57 30.9 57 44.7 48.6 54 34.7 54H10L16 9Zm9 11-3 23h12.5c7.5 0 11.8-4.5 11.8-12 0-7.2-3.7-11-10.8-11H25Z"/>
+  <path d="m20 55 28-9-7.5 9H20Z" fill="#F2FF59"/>
+  <path d="m16 9-6 45h4.5l6-45H16Z" fill="#09090C" opacity=".85"/>
+</svg>

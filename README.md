@@ -1,5 +1,9 @@
 # Deno AI Studio
 
+<p align="center">
+  <img src="assets/brand/deno-mark.svg" alt="DENO mark" width="104">
+</p>
+
 A beginner-friendly Windows desktop launcher for installing and running open-source audio, speech, narration, and music models in isolated Docker workspaces.
 
 **Current Windows installer: v0.1.71**
